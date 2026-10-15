@@ -1,0 +1,23 @@
+git commit
+- saves staged changes into the local repository history.
+
+git branch
+- lists or creates branches
+
+git checkout 
+- switches branches
+
+git pull
+- downloads and merges changes 
+
+git push
+- uploads local commits
+
+git merges
+- combines another branch into your current branch
+
+git rebase
+- moves your branch commits into another base branch
+
+git fetch
+- downloads remote updates without merging them
