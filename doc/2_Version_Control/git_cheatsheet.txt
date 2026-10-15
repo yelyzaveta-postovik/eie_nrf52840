@@ -21,3 +21,12 @@ git rebase
 
 git fetch
 - downloads remote updates without merging them
+git add
+- adds chnages to staging area
+git status
+- displays the state of the wokring directory and staging area
+git log
+- shows the commit history
+
+* note on git push -u <remote> <branch>:
+The '-u' (upstream) flag links your local branch to the remote branch on GitHub. It only needs to be run the first time you push a new branch. After that, run 'git push'
